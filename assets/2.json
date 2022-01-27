@@ -1,0 +1,24 @@
+{
+    "name": "Chiquinha",
+    "symbol": "",
+    "image": "2.png",
+    "collection": {
+        "name": "Personagesn Épicos em NFT",
+        "family": "Chaves"
+     },
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "9AomyiYqJshDDAxGmwjnmxiaYJ5qztHsm8udurStd9Gg",
+          "share": 100
+        }
+      ]
+    }
+  }
+  
